@@ -1,0 +1,22 @@
+//-----------------------------------------------------------------------------
+//	GROUPS.VGC
+//
+//	Group Configurations for all Source(TM) Projects
+//-----------------------------------------------------------------------------
+
+///////////////////////
+// Group definitions //
+///////////////////////
+
+$Group "maptools"
+{
+	"fgdlib"
+	"mathlib"
+	"raytracelib" //Raytrace 
+	"tier1"
+	"vbsp"
+	"vvis_launcher"
+	"vvis_dll"
+	"vrad_launcher"
+	"vrad_dll"
+}
