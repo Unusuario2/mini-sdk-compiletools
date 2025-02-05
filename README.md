@@ -2,7 +2,10 @@
 A minified version of Source SDK with the compile tools (vbsp,vvis,vad) and support for VS 2022.    
 This is great for people that wants to compile only the source engine tools and not donwload the rest of the engine.  
 
-============================================================================================
+
+
+
+
   SOURCE 1 SDK LICENSE
 
 Source SDK Copyright(c) Valve Corp.  
@@ -42,5 +45,4 @@ copyright notice and the following:
     ARISING OUT OF THE USE OF OR INABILITY TO USE THE 
     ENGINE AND/OR THE SDK, EVEN IF VALVE HAS BEEN 
     ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  
-       
-============================================================================================
+
