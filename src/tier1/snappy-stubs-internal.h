@@ -56,6 +56,8 @@
 
 #endif
 
+#pragma warning(disable: 4722)
+
 // Needed by OS X, among others.
 #ifndef MAP_ANONYMOUS
 #define MAP_ANONYMOUS MAP_ANON
